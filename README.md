@@ -1,5 +1,6 @@
 # Jupiter
 Jupiter: A location based Event Search and Ticket Recommendation web service
+
 • Developed an interactive web page for users to search events and purchase tickets (HTML, CSS and
 JavaScript)
 
